@@ -80,5 +80,7 @@ body{
 }
 .icon{
     position: absolute;
-    padding-left: 700px;
+    padding-left: 650px;
+    margin-top: 0 ;
+
 }
